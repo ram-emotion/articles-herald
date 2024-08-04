@@ -8,4 +8,6 @@ A simple Java project that utilizes Large Language Models (LLM)
 to handle non-deterministic input and map it to the correct events
 for further processing.
 
+## The architecture overview
 
+![Herald](./diagrams/Herald-Diagram-Image.png)
